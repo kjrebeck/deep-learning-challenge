@@ -50,5 +50,3 @@ While the deep learning model performed well, further improvements could be made
 2. CHATGBT
 
 ---
-
-This README provides a concise overview of the project, highlighting the key steps, results, and instructions for running the project. Let me know if you’d like any adjustments or additional details!
